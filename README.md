@@ -5,4 +5,4 @@ Raphael's User Page
 
 My favorite programming language is C++ 
 
-URL of my published GitHub pages: 
+URL of my published GitHub pages: https://raphaeloh96.github.io/CSE-110-FA22-Lab-Week-0-1/
