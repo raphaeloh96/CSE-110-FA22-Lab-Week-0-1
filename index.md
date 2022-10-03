@@ -6,9 +6,9 @@
 
 [Contact me](#contact_me)
 
-[What i like to do in free time](#hobbies)
+[What I like to do in free time](#hobbies)
 
-[Books that i want to read in the future](#books)
+[Books that I want to read in the future](#books)
 
 
 <!----><a name="about_me"></a>
@@ -39,7 +39,7 @@ This is the link to my [Facebook](https://www.facebook.com/raphaeloh96/)
 [Torrey Pines Golf Course](Torrey%20Pines.jpg)
 
 <!----><a name="hobbies"></a>
-### What i like to do in free time: 
+### What I like to do in free time: 
 - play tennis
 - play golf
 - play with my cat Jelly
@@ -48,7 +48,7 @@ This is the link to my [Facebook](https://www.facebook.com/raphaeloh96/)
 - go to the beach
 
 <!----><a name="languages"></a>
-### languages that I have worked with:
+### Languages that I have worked with:
 1. C++
 2. Java
 3. Javascript
@@ -58,7 +58,7 @@ This is the link to my [Facebook](https://www.facebook.com/raphaeloh96/)
 7. Python
 
 <!----><a name="books"></a>
-### books that i want to read in the future:
+### Books that I want to read in the future:
 - [x] Roger Federer by Chris Bowers
 - [x] Shadows by Tim Bowler
 - [ ] One Up on Wall Street by Peter Lynch
