@@ -43,7 +43,9 @@ languages that I have worked with:
 6. Haskell
 7. Python
 
-books that i want to read in the future:
+books that i have read and want to read in the future:
+- [x] Roger Federer by Chris Bowers
+- [x] Shadows by Tim Bowler
 - [ ] One Up on Wall Street by Peter Lynch
 - [ ] Market Wizards by Jack D. Schwager
 - [ ] How I Play Golf by Tiger Woods
