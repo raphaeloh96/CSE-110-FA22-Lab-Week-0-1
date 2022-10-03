@@ -2,6 +2,17 @@
 
 ## UCSD Class of 2023 | Computer Science B.S 
 
+[About me](#about_me)
+
+[Contact me](#contact_me)
+
+[What i like to do in free time](#hobbies)
+
+[Books that i want to read in the future](#books)
+
+
+<!----><a name="about_me"></a>
+### About me
 **Favorite Quote:** *"We cannot solve our problems with the same thinking we used when we created them."* ***Albert Einstein*** \
 
 I try my best to live everyday by motto which is: 
@@ -19,14 +30,16 @@ git clone
 git commit
 git push
 ```
-
+<!----><a name="contact_me"></a>
+### Contact me
 This is the link to my [LinkedIn](https://www.linkedin.com/in/raphaeloh96/)\
 This is the link to my [Instagram](https://www.instagram.com/raphaeloh96/)\
-This is the linke to my [Facebook](https://www.facebook.com/raphaeloh96/)
+This is the link to my [Facebook](https://www.facebook.com/raphaeloh96/)
 
 [Torrey Pines Golf Course](Torrey%20Pines.jpg)
 
-What i like to do in free time: 
+<!----><a name="hobbies"></a>
+### What i like to do in free time: 
 - play tennis
 - play golf
 - play with my cat Jelly
@@ -34,7 +47,8 @@ What i like to do in free time:
 - go visit my family in Orange County
 - go to the beach
 
-languages that I have worked with:
+<!----><a name="languages"></a>
+### languages that I have worked with:
 1. C++
 2. Java
 3. Javascript
@@ -43,9 +57,8 @@ languages that I have worked with:
 6. Haskell
 7. Python
 
-books that i have read and want to read in the future:
-- [x] Roger Federer by Chris Bowers
-- [x] Shadows by Tim Bowler
+<!----><a name="books"></a>
+### books that i want to read in the future:
 - [ ] One Up on Wall Street by Peter Lynch
 - [ ] Market Wizards by Jack D. Schwager
 - [ ] How I Play Golf by Tiger Woods
