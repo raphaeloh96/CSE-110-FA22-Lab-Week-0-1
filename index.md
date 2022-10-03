@@ -13,10 +13,10 @@
 
 <!----><a name="about_me"></a>
 ### About me
-**Favorite Quote:** *"We cannot solve our problems with the same thinking we used when we created them."* ***Albert Einstein*** \
+**Favorite Quote:** *"We cannot solve our problems with the same thinking we used when we created them."* ***Albert Einstein*** 
 
 I try my best to live everyday by motto which is: 
->Never try to find an easy way out to achieve happiness in short term, as everything will become much harder in long term. \
+>Never try to find an easy way out to achieve happiness in short term, as everything will become much harder in long term. 
 
 ![Profile Picture](profile%20picture.png)
 
@@ -59,6 +59,8 @@ This is the link to my [Facebook](https://www.facebook.com/raphaeloh96/)
 
 <!----><a name="books"></a>
 ### books that i want to read in the future:
+- [x] Roger Federer by Chris Bowers
+- [x] Shadows by Tim Bowler
 - [ ] One Up on Wall Street by Peter Lynch
 - [ ] Market Wizards by Jack D. Schwager
 - [ ] How I Play Golf by Tiger Woods
